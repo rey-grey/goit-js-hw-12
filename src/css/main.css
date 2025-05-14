@@ -75,7 +75,7 @@ button:hover {
     border-top: 5px solid #3498db;
     border-radius: 50%;
     animation: spin 1s linear infinite;
-    display: none;
+    
 
 }
 
@@ -102,8 +102,8 @@ button:hover {
             letter-spacing: 0.04em;
             color: #fff;
             display: block;
-            margin-left: 657px;
-            margin-bottom: 45px;
+            margin: 0 auto;
+            
 }
 
 .gallery {
